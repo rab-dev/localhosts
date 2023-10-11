@@ -40,8 +40,8 @@ to different local servers based on the host header in the request.
 > For example, it could be used to route:
 > `www.example.com` to `localhost:8081`.
 
-The mapping between host headers and port numbers is defined in a file called
-`localhosts.txt` which is automatically reloaded when changes are detected to the file.
+The mapping between host headers and port numbers is defined in a textfile called
+`localhosts` which is automatically reloaded when changes are detected to the file.
 
 The app can adapt to changes in the routing configuration without the 
 need to restart the server.
@@ -78,7 +78,7 @@ npm run dev
 To configure:
 
 ```
-edit localhosts.txt
+edit localhosts
 ```
 
 To test:
