@@ -1,6 +1,6 @@
 # Welcome to Localhosts
 
-Map custom domains to localhost ports.
+Map Custom Domains to Localhost Ports.
 
 ## Motivation:
 
