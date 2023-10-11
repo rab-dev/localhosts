@@ -1,6 +1,6 @@
 # Welcome to Localhosts
 
-Map requests from custom domains to local servers.
+Map custom domains to local servers.
 
 ## Motivation:
 
