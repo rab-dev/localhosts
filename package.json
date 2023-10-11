@@ -1,0 +1,16 @@
+{
+  "name": "localhosts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/localhosts.js",
+  "scripts": {
+    "dev": "node localhosts.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/rab-dev",
+  "license": "Private (all rights reserved)",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "pino": "^8.16.0"
+  }
+}

@@ -1,0 +1,7 @@
+; Map hostnames to localhost ports
+;
+; Used to proxy requests to localhost:<port> based on host name.
+
+app.example.com 8081
+www.example.tld 8082
+www.example.rab 8181
